@@ -79,7 +79,7 @@ plt.grid(True)
 plt.show()
 ```
 
-### OUTPUT:
+## OUTPUT:
 
 GIVEN DATA
 
@@ -107,5 +107,5 @@ FINIAL PREDICTION
 
 ![exp7_img4](https://github.com/user-attachments/assets/a5229581-7352-4385-a33b-8a1df8e17ebd)
 
-### RESULT:
+## RESULT:
 Thus we have successfully implemented the auto regression function using python.
